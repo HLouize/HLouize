@@ -1,9 +1,8 @@
 #  Heyy, I'm Héllida Louize ✨⚡
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" width="200" style="border-radius:10px;"/>
 
-  <img src="https://i.pinimg.com/originals/ee/05/f6/ee05f6cce20a828319627308caf52ab9.gif" width="200" style="border-radius:10px;"/>
+  <img src="https://i.pinimg.com/originals/ee/05/f6/ee05f6cce20a828319627308caf52ab9.gif" width="100%" style="border-radius:10px;"/>
 </div>
 
 ## 📊 GitHub Stats
