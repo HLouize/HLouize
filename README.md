@@ -1,7 +1,8 @@
-# 👋 Hi there, I'm Héllida Louize :)
+#  Heyy, I'm Héllida Louize ✨⚡
 
-<img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" width="200" />
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ff/d9/b4/ffd9b46366e14141790a80d4922485bf.gif" width="200" style="border-radius:10px;"/>
+</div>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HLouize&show_icons=true&theme=tokyonight)  
