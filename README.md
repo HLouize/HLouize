@@ -6,17 +6,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HLouize&show_icons=true&theme=tokyonight)  
-<picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=transparent&title_color=800000&text_color=FFFFFF&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=transparent&title_color=800000&text_color=000000&hide_border=true" 
-      media="(prefers-color-scheme: light)" />
-    <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=transparent" />
-  </picture>
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Get in Touch
