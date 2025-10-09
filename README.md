@@ -10,6 +10,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=radical&hide=html)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&repo=Calculadora-de-IMC&layout=compact&theme=radical)
+
 ---
 
 ## 📫 Get in Touch
