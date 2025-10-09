@@ -5,7 +5,10 @@
 </div>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HLouize&show_icons=true&theme=tokyonight) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HLouize&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=radical&hide=html)
 ---
 
