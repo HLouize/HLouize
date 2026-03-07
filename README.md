@@ -6,8 +6,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HLouize&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&repo=Calculadora-de-IMC&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HLouize&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=radical)
 
 ---
 
