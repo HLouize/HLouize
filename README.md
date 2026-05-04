@@ -7,7 +7,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=HLouize&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HLouize&layout=compact&theme=radical&langs_count=20)
+
 ## 📫 Get in Touch
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/h%C3%A9llidalouize/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:hellida.llgomes@gmail.com)
