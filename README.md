@@ -7,7 +7,7 @@
 <br/>
 
 ### 👩🏽‍💻 Sobre mim
-Sou estudante de **Ciência da Computação** na UEPB, em Campina Grande - PB, com background em olimpíadas científicas e maratonas de programação.Assim, busco sempre unir teoria e prática nos meus desenvolvimentos.
+Sou estudante de **Ciência da Computação** na UEPB, em Campina Grande - PB, com background em olimpíadas científicas e maratonas de programação.
 
 - 🎓 Graduanda em Ciência da Computação (UEPB).
 - 🚀 Embaixadora Estudantil Google
