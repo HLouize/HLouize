@@ -1,8 +1,5 @@
 # Heyy, I'm Héllida ✨⚡
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnF1439g7U/giphy.gif" alt="Retro Gaming Room GIF" width="600"/>
-</div>
 
 <br/>
 
